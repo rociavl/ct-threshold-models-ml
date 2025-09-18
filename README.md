@@ -108,6 +108,7 @@ XGBRegressor(
 
 ### Model Training Demonstration
 https://github.com/rociavl/ct-threshold-models-ml/blob/main/Data/ml_model_application.mp4
+<img width="1021" height="885" alt="image" src="https://github.com/user-attachments/assets/445c7b9a-b117-41b1-80dc-28af9e1d00d4" />
 
 *Video demonstration of the complete model training process and clinical application workflow*
 
