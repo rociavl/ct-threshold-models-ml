@@ -1,0 +1,41 @@
+Thresholds for ctp.3D
+==================================================
+
+OG_volume_array: 2723.05
+OG_gaussian_volume_og: 2723.05
+OG_gamma_volume_og: 218.87
+OG_sharpened: 218.87
+PRUEBA_roi_plus_gamma_mask: 182.85
+PRUEBA_roi_plus_gamma_mask_clahe: 175.35
+PRUEBA_WAVELET_NL: 182.53
+wavelet_only_roi: 2096.99
+gamma_only_roi: 188.89166666666668
+roi_volume: 2151.09
+2_gaussian_volume_roi: 0.6170332500832493
+2_gamma_correction: 178.70666666666665
+2_tophat: 0.6170332500832493
+2_sharpened: 178.7066666666666
+2_LOG: 192.10833333333335
+2_wavelet_roi: 192.19833333333332
+2_erode: 178.7066666666667
+2_gaussian_2: 0.5098027208017504
+2_sharpening_2_trial: 0.5098027208017504
+NUEVO_NLMEANS: 2096.99
+ORGINAL_IDEA_gaussian: 0.6170332500832493
+ORGINAL_IDEA_gamma_correction: 129.07121666666666
+ORGINAL_IDEA_sharpened: 129.07121666666666
+ORIGINAL_IDEA_wavelet: 132.93871666666666
+ORGINAL_IDEA_gaussian_2: 0.5790750264180261
+ORIGINAL_IDEA_GAMMA_2: 113.26125000000002
+OG_tophat_1: 0.579075026418026
+FT_gaussian: 2321.625
+FT_RESTA_TOPHAT_GAUSSIAN: 1572.055
+FT_gamma_correction: 111.23791666666668
+FT_sharpened: 111.23791666666669
+FT_gaussian_2: 0.5293434920634918
+FT_gamma_2: 75.23
+FT_opening: 75.23
+FT_closing: 75.23
+FT_erode_2: 75.23
+FT_tophat: 0.5293434920634918
+FT_gaussian_3: 0.529343492063492
