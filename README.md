@@ -94,23 +94,6 @@ XGBRegressor(
 )
 ```
 
-## Visual Documentation
-
-### ML Threshold Predictor Overview
-![Stage 3 - ML Threshold Predictor](Data/ml_threshold_predictor.png)
-
-*Stage 3 of the SEEG pipeline: Machine learning threshold predictor achieving R² = 0.99 accuracy with 38 histogram-derived features*
-
-### Algorithm Comparison
-![Original Enhancement Approaches](Data/original_images.png)
-
-*Comparison of different enhancement algorithms demonstrating the challenge of manual threshold selection across varying imaging conditions*
-
-### Model Training Demonstration
-[Download Demo Video (45MB)](https://github.com/rociavl/ct-threshold-models-ml/releases/download/v1.0.0/ml_model_application.mp4)
-
-*Video demonstration of the complete model training process and clinical application workflow*
-
 
 ## Installation
 
