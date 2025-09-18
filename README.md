@@ -107,7 +107,7 @@ XGBRegressor(
 *Comparison of different enhancement algorithms demonstrating the challenge of manual threshold selection across varying imaging conditions*
 
 ### Model Training Demonstration
-https://github.com/rociavl/ct-threshold-models-ml/blob/main/Data/ml_model_application.mp4
+[Download Demo Video (45MB)](https://github.com/rociavl/ct-threshold-models-ml/releases/download/v1.0.0/ml_model_application.mp4)
 
 *Video demonstration of the complete model training process and clinical application workflow*
 
